@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pjoyce1995
-- 👀 I’m interested in data science and atmospheric science
+- 👀 I’m interested in data science and software engineering
 - 🌱 I’m currently learning convolutional neural networks and pandas
 - 📫 How to reach me: peterjoyce247@gmail.com
 
